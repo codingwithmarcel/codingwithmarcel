@@ -2,7 +2,7 @@
 
 # Bridging Strategy & Mission-Critical Architecture
 
-**Senior Full-Stack Architect & Strategic Product Lead with 20+ years of experience.**<br />
+**Senior Full-Stack Architect & Strategic Product Lead with 25+ years of experience.**<br />
 *I don't just design the system, I build the entire stack.*
 
 <br/>
@@ -17,7 +17,7 @@
 
 ---
 
-### 🥷 The "Stealth" Portfolio (80+ Private Repositories)
+### 🥷 The "Stealth" Portfolio (100+ Private Repositories)
 
 > *Building in the shadows. Most of my work is proprietary, developed for global clients under strict NDAs.*
 
@@ -61,7 +61,7 @@
 
 ### 🏆 Milestones & Impact
 
-- **20+ Years** in Tech & Product Building.
+- **25+ Years** in Tech & Product Building.
 - **2** iOS Apps Launched.
 - **1** Successful Business Exit.
 - **Worked with brands like:** Mercedes Benz, Deutsche Bahn, B.Braun, Pfizer, Huawei Global, LBS & Sparkasse
